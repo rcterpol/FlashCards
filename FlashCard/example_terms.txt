@@ -1,0 +1,48 @@
+Unified Extensible Firmware Interface (UEFI): A modern, standardized interface between a computer's hardware and its operating system, designed to improve the boot process and provide advanced features compared to the legacy BIOS it replaced.
+Embedded computer: A computer system within some other, larger system (such as a car) that performs specific, limited functions and has little or no user interface. 
+Kernel: The operating system component running on the computer at all times after system boot. 
+Ease of use: The amount of difficulty and complexity involved in using some aspect of computing. 
+Application program: A program designed for end-user execution, such as a word processor, spreadsheet, compiler, or Web browser. 
+Control program: A program that manages the execution of user programs to prevent errors and improper use of the computer. It is especially concerned with the operation and control of I/O devices. 
+Resource allocator: An operating system or application that determines how resources are to be used. 
+Siri: The Apple voice-recognition system. 
+Touch screen: A touch-sensitive screen used as a computer input device. 
+Resource utilization: The amount of a given resource (hardware or software) that is being used. 
+System program: A program associated with the operating system but not necessarily part of the kernel. 
+Voice recognition: A computer interface based on spoken commands, which the computer parses and turns into actions. 
+Hardware: The CPU, memory devices, input/output (I/O) devices, and any other physical components that are part of a computer. 
+Moore's Law: A law predicting that the number of transistors on an integrated circuit would double every eighteen months. 
+Middleware: A set of software frameworks that provide additional services to application developers. 
+Bus: A communication system; e.g., within a computer, a bus connects various components, such as the CPU and I/O devices, allowing them to transfer data and commands. 
+Terabyte (TB):  1,0244  bytes. 
+Memory: Volatile storage within a computer system. 
+Bootstrap program: The program that allows the computer to start running by initializing hardware and loading the kernel. 
+Megabyte (MB):  1,0242  bytes. 
+Interrupt vector: An operating-system data structure indexed by interrupt address and pointing to the interrupt handlers. A kernel memory data structure that holds the addresses of the interrupt service routines for the various devices. 
+Kilobyte (KB): 1,024 bytes. 
+Gigabyte (GB):  1,0243  bytes. 
+Bit: The basic unit of computer storage. A bit can contain one of two values, 0 or 1. 
+Nonmaskable interrupt: An interrupt that cannot be delayed or blocked (such as an unrecoverable memory error). 
+Interrupt-request line: The hardware connection to the CPU on which interrupts are signaled. 
+Interrupt chaining: A mechanism by which each element in an interrupt vector points to the head of a list of interrupt handlers, which are called individually until one is found to service the interrupt request. 
+Secondary storage: A storage system capable of holding large amounts of data permanently; most commonly, HDDs and NVM devices. 
+Interrupt: A hardware mechanism that enables a device to notify the CPU that it needs attention. 
+Firmware: Software stored in ROM or EEPROM for booting the system and managing low level hardware. 
+Tertiary storage: A type of storage that is slower and cheaper than main memory or secondary storage; frequently magnetic tape or optical disk. 
+Nonvolatile storage (NVS): Storage in which data will not be lost in a power outage or similar event. 
+Byte: Eight bits. 
+Hard disk drive (HDD): A secondary storage device based on mechanical components, including spinning magnetic media platters and moving read-write heads. 
+Semiconductor memory: The various types of memory constructed from semiconductors. 
+Volatile: Describes storage whose content can be lost in a power outage or similar event. 
+Maskable: Describes an interrupt that can be delayed or blocked (such as when the kernel is in a critical section). 
+Device driver: An operating system component that provides uniform access to various devices and manages I/O to those devices. 
+Dynamic random-access memory (DRAM): The common version of RAM, which features high read and write speeds. 
+Random-access memory (RAM): Rewritable memory, also called main memory. Most programs run from RAM, which is managed by the kernel. 
+Interrupt priority level: Prioritization of interrupts to indicate handling order. 
+Interrupt-handler routine: An operating system routine that is called when an interrupt signal is received. 
+Petabyte (PB):  1,0245  bytes. 
+Interrupt-controller hardware: Computer hardware components for interrupt management. 
+Von Neumann architecture: The structure of most computers, in which both process instructions and data are stored in the same main memory. 
+Word: A unit made up of one or more bytes. For example, a computer that has 64-bit registers and 64-bit memory addressing typically has 64-bit (8-byte) words. 
+Direct memory access (DMA): A resource-conserving and performance- improving operation for device controllers allowing devices to transfer large amounts of data directly to and from main memory. 
+Nonvolatile memory (NVM): Persistent storage based on circuits and electric charges. 
